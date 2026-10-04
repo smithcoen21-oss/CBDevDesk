@@ -1,0 +1,9 @@
+CBDevDesk
+CBDevDesk Phase 2 is a collaborative cloud coding workspace
+💻 Online IDE — users write and edit code in the browser.
+👥 Real-time collaboration — multiple users can edit the same file together.
+🔐 User accounts & permissions — owners, admins, editors, and viewers.
+📁 Project/file management — projects have their own workspace and files.
+🌿 Git integration — users can commit changes and view Git history.
+⚡ Backend API — manages users, projects, files, permissions, and collaboration access.
+🧩 Scalable architecture — designed to eventually support Redis, persistent collaboration state, and isolated code execution.
